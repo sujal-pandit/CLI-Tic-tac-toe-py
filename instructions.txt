@@ -1,0 +1,4 @@
+You have to enter one of these:
+top-l , top-m , top-r
+mid-l , mid-m , mid-r
+bottom-l , bottom-m , bottom-r
